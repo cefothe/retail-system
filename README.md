@@ -30,4 +30,4 @@ You need to execute:
 Then you can find the HTML report in ``{projectHome}/build/reports/jacoco/test/html`` and open the index.html
 
 ## UML diagram of domain model
-
+![Diagram for users](user-uml.png)
